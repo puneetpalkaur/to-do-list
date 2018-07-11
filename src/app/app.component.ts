@@ -6,5 +6,12 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'app';
+  taskName: string[] = [];
+  getTasks(tName: string) {
+    this.taskName.push(tName);
+
+  }
+  getRemove(remove: string ) {
+    this.taskName.splice(this.taskName.indexOf(remove), 1);
+  }
 }

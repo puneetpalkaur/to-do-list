@@ -1,0 +1,17 @@
+div{
+  background: linear-gradient(to bottom, rgba(0,183,234,1) 0%,rgba(0,158,195,1) 100%);
+  color: ghostwhite;
+  box-shadow: inset 0px 0px 4px #4dffea;
+  padding-bottom: 5px;
+  border-radius: 5px;
+
+
+}
+h3{
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+span{
+  padding: 2px;
+  padding-right: 4px;
+}
