@@ -1,6 +1,6 @@
 # ToDoList
 
-The project is live at https://todolistapp-demo.herokuapp.com.
+## The project is live at https://todolistapp-demo.herokuapp.com.
 
 This project demonstrates how Parent and Child components can communicate in Angular 6
 
